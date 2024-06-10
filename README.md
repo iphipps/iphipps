@@ -3,7 +3,7 @@ I'm Ian Phipps. I hope you're doing great.
 
 Here's what's up:
 
-- 🔭 recently have been working on the web and desktop apps at app.geneva.com
+- 🔭 recently have been working on admin discounts at Shopify
 - 🌱 currently embracing AI's impact on my life, specifically it's teaching me swift
 - 👯 looking to collaborate on a great product or offering. ( ready for the next project )
 - 🤔 I’m looking for tips on parenting. Seriously, It's hard.
